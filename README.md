@@ -1,4 +1,5 @@
 ### Hi there 👋
+ <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" /> <img height="32" width="32" src="https://cdn.simpleicons.org/unity" />
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShawRoot)
 <!--
 **OblivionShaw/OblivionShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
