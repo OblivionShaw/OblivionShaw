@@ -8,6 +8,14 @@
 </br>
 
 <b>Beginner<b>
+
+<b>Entry-level<b>
+---
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/000000/ffffff" />
+</br>
+
+<b>Beginner<b>
 ---
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/000000/ffffff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/unrealengine/000000/ffffff" />
