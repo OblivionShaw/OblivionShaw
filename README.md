@@ -13,6 +13,8 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/unrealengine/000000/ffffff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/godotengine/000000/ffffff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/000000/ffffff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/000000/ffffff" />
+
 </br>
 
 <b></b>
