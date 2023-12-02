@@ -30,8 +30,9 @@
 
 <b></b>
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OblivionShaw&theme=radical&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OblivionShaw&layout=compact)-->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShawRoot)
-
 
 <!--
 **OblivionShaw/OblivionShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
