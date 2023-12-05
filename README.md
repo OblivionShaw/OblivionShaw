@@ -7,8 +7,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/unity/000000/ffffff" />
 </br>
 
-<b>Beginner<b>
-
 <b>Entry-level<b>
 ---
 
