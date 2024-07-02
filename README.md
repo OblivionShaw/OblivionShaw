@@ -3,25 +3,23 @@
 <b>Experienced<b>
 -
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/000000/ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/unity/000000/ffffff" />
+C Sharp  
+Unity
 </br>
 
 <b>Entry-level<b>
 -
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/000000/ffffff" />
+Git  
+Godot
 </br>
 
 <b>Beginner<b>
 -
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/000000/ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/unrealengine/000000/ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/godotengine/000000/ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/blender/000000/ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/000000/ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/000000/ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/rust/000000/ffffff" />
+C++  
+Unreal  
+Aseprite  
+Blender
 
 
 </br>
